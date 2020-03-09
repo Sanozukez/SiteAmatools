@@ -1,0 +1,22 @@
+Classes para Usar no CSS ja definidas.
+
+Páginas de Produtos
+
+Descrição dos produtos
+<!--usar a descrição em paragrafo com a classe .descriptionProdutos-->
+"
+<p class="descriptionProdutos">
+</p>
+"
+
+Tabelas
+
+-Geral
+<!--usar no <table ...> geral -->
+.tbStyle1
+
+-Cabeçalho
+<!--usar no <tr ...> do cabeçalho -->
+.tbHeader1
+
+
